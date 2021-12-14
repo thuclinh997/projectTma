@@ -13,7 +13,7 @@
   <li> cd project/client</li>
   <li>npm start</li>
   <li>ok install successfully</li>
- <li> account login : open file json in folder server/script/json/userBuyer.json</li>
+ <li> account login : open file json in folder server/script/json/dataBuyer.json</li>
  
  <li>Note: please install maildev npm : open terminal -> enter npm install maildev -g then npx maildev</li>
 </ul>
