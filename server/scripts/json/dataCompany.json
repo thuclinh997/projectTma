@@ -1,0 +1,46 @@
+[
+  {
+    "name": "FPT",
+    "description": "company FPT software",
+    "business": "out source",
+    "contact": {
+      "street": "02 Quang Trung",
+      "city": "TP Ho Chi Minh",
+      "country": "Viet Nam",
+      "phone_number": "0987654321"
+    }
+  },
+  {
+    "name": "CNC",
+    "description": "company CNC software",
+    "business": "travel",
+    "contact": {
+      "street": "98 Hung Vuong",
+      "city": "Da Nang",
+      "country": "Viet Nam",
+      "phone_number": "0987654321"
+    }
+  },
+  {
+    "name": "TECTMATH",
+    "description": "company TECTMATH software",
+    "business": "travel",
+    "contact": {
+      "street": "123 Tran Hung Dao",
+      "city": "Da Nang",
+      "country": "Viet Nam",
+      "phone_number": "0987654321"
+    }
+  },
+  {
+    "name": "VNLAP",
+    "description": "company VNLAP software",
+    "business": "travel",
+    "contact": {
+      "street": "56 Hung Dao Vuong",
+      "city": "Da Nang",
+      "country": "Viet Nam",
+      "phone_number": "0987654321"
+    }
+  }
+]

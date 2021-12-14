@@ -1,0 +1,17 @@
+.page-wrap {
+    min-height: 50vh;
+    background-color: #1c888b;
+    color:white;
+}
+
+.page-wrap a{
+    color: white;
+    border: 1px solid #f2f5f5;
+}
+
+.page-wrap a:hover{
+    color: white;
+    border: 1px solid #f2f5f5;
+    text-decoration: none;
+    background-color:#104647;
+}
