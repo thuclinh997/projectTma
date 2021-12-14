@@ -13,4 +13,5 @@
   <li> cd project/client</li>
   <li>npm start</li>
   <li>ok install successfully</li>
+ <li> account login : open file json in folder server/script/json/userBuyer.json</li>
 </ul>
